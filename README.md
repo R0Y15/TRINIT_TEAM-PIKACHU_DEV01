@@ -3,7 +3,7 @@
 #### A specially designed website for TRI-NIT hackathon
 
 ## Link to the site
-https://ronnie8789.github.io/TRINIT_TEAM-PIKACHU_DEV01/
+https://R0Y15.github.io/TRINIT_TEAM-PIKACHU_DEV01/
 
 <img src = "https://github.com/ronnie8789/TRINIT_TEAM-PIKACHU_DEV01/blob/master/readme_files/home.png"></img>
 
