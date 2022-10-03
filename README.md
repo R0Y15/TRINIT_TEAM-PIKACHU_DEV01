@@ -50,8 +50,8 @@ This is How the Contact page seems like.
 This is a short descriptive page about the page and the intention behind creating the page.
 ## About The Authors
 
- -HEMAL SHINGLOO
+ -BISHAL ROY
  
  -KSHITIJ KUMAR SAINI
 
- -BISHAL ROY
+ -HEMAL SHINGLOO
