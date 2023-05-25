@@ -41,6 +41,10 @@ p + p {
     margin-top: 40px;
 }
 
+.creators-name{
+    font-size: 18px;
+}
+
 /* Buttons */
 .btn {
     line-height: 50px;
